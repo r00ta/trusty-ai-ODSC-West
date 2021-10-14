@@ -45,11 +45,29 @@ in the response, you can see that the mortgage request is rejected and the risk 
 }
 ```
 
+![Screenshot from 2021-10-14 15-10-51](https://user-images.githubusercontent.com/18282531/137323888-0c50ff6e-5e56-45bc-a3b0-3ebf7b92aa3e.png)
+
 ## Step 3 - Use the Trusy UI!
 
-Open `http://localhost:1338` on your browser. The Trusty UI will provide the list of executions of your kogito application. In addition to that, for each execution it provides some information about the inputs and the outcomes of the model, the model that has been used and two explaination features: 
+Open `http://localhost:1338` on your browser. The Trusty UI will provide the list of executions of your kogito application. 
+
+![Screenshot from 2021-10-14 15-11-35](https://user-images.githubusercontent.com/18282531/137323965-731faf0a-657b-4899-b7e4-1c60c9f0da2a.png)
+
+In addition to that, for each execution it provides some information about the inputs and the outcomes of the model
+
+![Screenshot from 2021-10-14 15-12-05](https://user-images.githubusercontent.com/18282531/137324052-198d5607-5193-4407-8bb8-77eabac651a1.png)
+![Screenshot from 2021-10-14 15-12-12](https://user-images.githubusercontent.com/18282531/137324059-9013e127-f913-4429-be43-5b63de55e4d7.png)
+
+the model that has been used 
+
+![Screenshot from 2021-10-14 15-12-37](https://user-images.githubusercontent.com/18282531/137324141-4d1b5e0f-20df-4e72-adea-cecf4d56e7f7.png)
+
+and two explaination features: 
 
 1) **LIME**: 
+![Screenshot from 2021-10-14 15-13-14](https://user-images.githubusercontent.com/18282531/137324256-e39fc270-db5f-41da-8e7d-952717215043.png)
+
 2) **Counterfactual analysis**: 
+![Screenshot from 2021-10-14 15-13-38](https://user-images.githubusercontent.com/18282531/137324326-04770b5f-ab1a-4781-89f9-6d53430b8eb4.png)
 
 
