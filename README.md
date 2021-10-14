@@ -64,10 +64,10 @@ the model that has been used
 
 and two explaination features: 
 
-1) **LIME**: 
+1) **LIME**: **L**ocal **I**nterpretable **M**odel-agnostic **E**xplanations. This feature aims to explain why a particular decision has been taken by the model, by highlighting the features that have contributed to the outcome. 
 ![Screenshot from 2021-10-14 15-13-14](https://user-images.githubusercontent.com/18282531/137324256-e39fc270-db5f-41da-8e7d-952717215043.png)
 
-2) **Counterfactual analysis**: 
+2) **Counterfactual analysis**: this feature aims to provide the user the ability to set the expected outcomes (for example: the mortgage request is approved) and set some constraints on the inputs. The analysis will find the values that satisfy the constraints and the goals (if possible).
 ![Screenshot from 2021-10-14 15-13-38](https://user-images.githubusercontent.com/18282531/137324326-04770b5f-ab1a-4781-89f9-6d53430b8eb4.png)
 
 
