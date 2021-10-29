@@ -1,6 +1,6 @@
 # trusty-ai-ODSC-West
 
-This repository contains an end to end demonstration that has been presented at the ODSC West by me. 
+This repository contains an end to end demonstration that has been presented at the ODSC West by me. The slides can be found [here](slides.pdf).
 
 This repository does not cointain the instructions to build the kogito application and the PMML+DMN models that have been used: if you are looking for this information, you can find all the detailed steps [here](https://github.com/r00ta/from-data-to-kogito-demo).
 
